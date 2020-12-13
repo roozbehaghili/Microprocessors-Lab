@@ -6,7 +6,7 @@ interrupt[TIM0_OVF] void timer0_ovf_isr(void)
 TCNT0 = 56;
 ++time;
 if (time == 3787)
-   { PORTC0 = (PORTC0^1)
+   { PORTC.0 = (PORTC.0^1)
      time = 0;}
 }
 void main (void){
