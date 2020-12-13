@@ -14,7 +14,6 @@ DDRC = 0X01;
 TCCR0 = 0X02;
 TCNT0 = 31;
 TIMSK = 0X01;
-
 #asm('sei')
 while(1){}
 }
