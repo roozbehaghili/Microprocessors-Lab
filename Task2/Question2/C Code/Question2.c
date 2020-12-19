@@ -2,12 +2,12 @@
 This program was created by the
 CodeWizardAVR V3.12 Advanced
 Automatic Program Generator
-© Copyright 1998-2014 Pavel Haiduc, HP InfoTech s.r.l.
+Â© Copyright 1998-2014 Pavel Haiduc, HP InfoTech s.r.l.
 http://www.hpinfotech.com
 
 Project : 
 Version : 
-Date    : 12/20/2020
+Date    : 12/19/2020
 Author  : Roozbeh Aghili
 Company : Kharazmi University
 Comments: 0 to 9999 using four 7-segments
