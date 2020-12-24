@@ -1,0 +1,13 @@
+VERSION:3 SOURCE_TIMESTAMP:52210864
+NODE:I LEVEL:0 LINE:24 "F:\Program Files (x86)\codeVisionAVR\inc\mega16.h"
+NODE:I LEVEL:0 LINE:25 "F:\Program Files (x86)\codeVisionAVR\inc\stdio.h"
+NODE:I LEVEL:0 LINE:26 "F:\Program Files (x86)\codeVisionAVR\inc\alcd.h"
+NODE:I LEVEL:0 LINE:27 "F:\Program Files (x86)\codeVisionAVR\inc\delay.h"
+NODE:V LEVEL:0 LINE:29 "counter -> R5"
+NODE:V LEVEL:0 LINE:30 "start -> R6,R7"
+NODE:V LEVEL:0 LINE:30 "stop -> R8,R9"
+NODE:V LEVEL:0 LINE:30 "period -> R10,R11"
+NODE:V LEVEL:0 LINE:31 "frequency -> RAM:????"
+NODE:V LEVEL:0 LINE:32 "str -> RAM:????"
+NODE:F LEVEL:0 LINE:34 "timer1_capt_isr(void)"
+NODE:F LEVEL:0 LINE:42 "main(void)"
