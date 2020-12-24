@@ -60,7 +60,7 @@ while (1){
       sprintf(str,"%d Hz");
       lcd_gotoxy(0,0);
 	  lcd_puts("Freq:");
-      lcd_gotoxy(5,0);
+      lcd_gotoxy(6,0);
       lcd_puts(str);
       } 
 }

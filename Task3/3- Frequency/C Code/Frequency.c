@@ -7,7 +7,7 @@ http://www.hpinfotech.com
 
 Project : 
 Version : 
-Date    : 1/1/2021
+Date    : 12/25/2020
 Author  : Roozbeh Aghili
 Company : Kharazmi University
 Comments: Calculating palse frequency

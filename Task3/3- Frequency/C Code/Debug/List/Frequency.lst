@@ -1,16 +1,16 @@
 
-AVRASM ver. 2.1.30  E:\Dars\Term 7\Az Riz\Tamrin ha\HW03\Frequency\C Code\Debug\List\Frequency.asm Fri Jan 01 01:10:10 2021
+AVRASM ver. 2.1.30  C:\Users\RAL47\Microprocessors-Lab\Task3\3- Frequency\C Code\Debug\List\Frequency.asm Mon Jan 11 23:20:29 2021
 
-E:\Dars\Term 7\Az Riz\Tamrin ha\HW03\Frequency\C Code\Debug\List\Frequency.asm(1088): warning: Register r5 already defined by the .DEF directive
-E:\Dars\Term 7\Az Riz\Tamrin ha\HW03\Frequency\C Code\Debug\List\Frequency.asm(1089): warning: Register r6 already defined by the .DEF directive
-E:\Dars\Term 7\Az Riz\Tamrin ha\HW03\Frequency\C Code\Debug\List\Frequency.asm(1090): warning: Register r7 already defined by the .DEF directive
-E:\Dars\Term 7\Az Riz\Tamrin ha\HW03\Frequency\C Code\Debug\List\Frequency.asm(1091): warning: Register r8 already defined by the .DEF directive
-E:\Dars\Term 7\Az Riz\Tamrin ha\HW03\Frequency\C Code\Debug\List\Frequency.asm(1092): warning: Register r9 already defined by the .DEF directive
-E:\Dars\Term 7\Az Riz\Tamrin ha\HW03\Frequency\C Code\Debug\List\Frequency.asm(1093): warning: Register r10 already defined by the .DEF directive
-E:\Dars\Term 7\Az Riz\Tamrin ha\HW03\Frequency\C Code\Debug\List\Frequency.asm(1094): warning: Register r11 already defined by the .DEF directive
-E:\Dars\Term 7\Az Riz\Tamrin ha\HW03\Frequency\C Code\Debug\List\Frequency.asm(1095): warning: Register r4 already defined by the .DEF directive
-E:\Dars\Term 7\Az Riz\Tamrin ha\HW03\Frequency\C Code\Debug\List\Frequency.asm(1096): warning: Register r13 already defined by the .DEF directive
-E:\Dars\Term 7\Az Riz\Tamrin ha\HW03\Frequency\C Code\Debug\List\Frequency.asm(1097): warning: Register r12 already defined by the .DEF directive
+C:\Users\RAL47\Microprocessors-Lab\Task3\3- Frequency\C Code\Debug\List\Frequency.asm(1088): warning: Register r5 already defined by the .DEF directive
+C:\Users\RAL47\Microprocessors-Lab\Task3\3- Frequency\C Code\Debug\List\Frequency.asm(1089): warning: Register r6 already defined by the .DEF directive
+C:\Users\RAL47\Microprocessors-Lab\Task3\3- Frequency\C Code\Debug\List\Frequency.asm(1090): warning: Register r7 already defined by the .DEF directive
+C:\Users\RAL47\Microprocessors-Lab\Task3\3- Frequency\C Code\Debug\List\Frequency.asm(1091): warning: Register r8 already defined by the .DEF directive
+C:\Users\RAL47\Microprocessors-Lab\Task3\3- Frequency\C Code\Debug\List\Frequency.asm(1092): warning: Register r9 already defined by the .DEF directive
+C:\Users\RAL47\Microprocessors-Lab\Task3\3- Frequency\C Code\Debug\List\Frequency.asm(1093): warning: Register r10 already defined by the .DEF directive
+C:\Users\RAL47\Microprocessors-Lab\Task3\3- Frequency\C Code\Debug\List\Frequency.asm(1094): warning: Register r11 already defined by the .DEF directive
+C:\Users\RAL47\Microprocessors-Lab\Task3\3- Frequency\C Code\Debug\List\Frequency.asm(1095): warning: Register r4 already defined by the .DEF directive
+C:\Users\RAL47\Microprocessors-Lab\Task3\3- Frequency\C Code\Debug\List\Frequency.asm(1096): warning: Register r13 already defined by the .DEF directive
+C:\Users\RAL47\Microprocessors-Lab\Task3\3- Frequency\C Code\Debug\List\Frequency.asm(1097): warning: Register r12 already defined by the .DEF directive
                  
                  
                  ;CodeVisionAVR C Compiler V3.12 Advanced
@@ -1256,7 +1256,7 @@ E:\Dars\Term 7\Az Riz\Tamrin ha\HW03\Frequency\C Code\Debug\List\Frequency.asm(1
                  ;
                  ;Project :
                  ;Version :
-                 ;Date    : 1/1/2021
+                 ;Date    : 12/25/2020
                  ;Author  : Roozbeh Aghili
                  ;Company : Kharazmi University
                  ;Comments: Calculating palse frequency

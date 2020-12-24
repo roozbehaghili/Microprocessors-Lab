@@ -1,9 +1,9 @@
 
-AVRASM ver. 2.1.30  E:\Dars\Term 7\Az Riz\Tamrin ha\HW03\HelloWorld\C Code\Debug\List\HelloWorld.asm Thu Dec 31 23:41:18 2020
+AVRASM ver. 2.1.30  C:\Users\RAL47\Microprocessors-Lab\Task3\1- HelloWorld\C Code\Debug\List\HelloWorld.asm Mon Jan 11 23:19:55 2021
 
-E:\Dars\Term 7\Az Riz\Tamrin ha\HW03\HelloWorld\C Code\Debug\List\HelloWorld.asm(1088): warning: Register r5 already defined by the .DEF directive
-E:\Dars\Term 7\Az Riz\Tamrin ha\HW03\HelloWorld\C Code\Debug\List\HelloWorld.asm(1089): warning: Register r4 already defined by the .DEF directive
-E:\Dars\Term 7\Az Riz\Tamrin ha\HW03\HelloWorld\C Code\Debug\List\HelloWorld.asm(1090): warning: Register r7 already defined by the .DEF directive
+C:\Users\RAL47\Microprocessors-Lab\Task3\1- HelloWorld\C Code\Debug\List\HelloWorld.asm(1088): warning: Register r5 already defined by the .DEF directive
+C:\Users\RAL47\Microprocessors-Lab\Task3\1- HelloWorld\C Code\Debug\List\HelloWorld.asm(1089): warning: Register r4 already defined by the .DEF directive
+C:\Users\RAL47\Microprocessors-Lab\Task3\1- HelloWorld\C Code\Debug\List\HelloWorld.asm(1090): warning: Register r7 already defined by the .DEF directive
                  
                  
                  ;CodeVisionAVR C Compiler V3.12 Advanced
@@ -1133,7 +1133,7 @@ E:\Dars\Term 7\Az Riz\Tamrin ha\HW03\HelloWorld\C Code\Debug\List\HelloWorld.asm
 00002e 6c72
 00002f 2064
 000030 443a
-E:\Dars\Term 7\Az Riz\Tamrin ha\HW03\HelloWorld\C Code\Debug\List\HelloWorld.asm(1123): warning: .cseg .db misalignment - padding zero byte
+C:\Users\RAL47\Microprocessors-Lab\Task3\1- HelloWorld\C Code\Debug\List\HelloWorld.asm(1123): warning: .cseg .db misalignment - padding zero byte
 000031 0000      	.DB  0x72,0x6C,0x64,0x20,0x3A,0x44,0x0
                  _0x2000003:
 000032 c080      	.DB  0x80,0xC0
@@ -1229,7 +1229,7 @@ E:\Dars\Term 7\Az Riz\Tamrin ha\HW03\HelloWorld\C Code\Debug\List\HelloWorld.asm
                  ;
                  ;Project :
                  ;Version :
-                 ;Date    : 12/31/2020
+                 ;Date    : 12/25/2020
                  ;Author  : Roozbeh Aghili
                  ;Company : Kharazmi University
                  ;Comments: Creating a LCD showing Hello World on it

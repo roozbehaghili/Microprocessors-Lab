@@ -1,13 +1,13 @@
 
-AVRASM ver. 2.1.30  E:\Dars\Term 7\Az Riz\Tamrin ha\HW03\EnglishLetters\C Code\Debug\List\EnglishLetters.asm Fri Jan 01 00:04:52 2021
+AVRASM ver. 2.1.30  C:\Users\RAL47\Microprocessors-Lab\Task3\2- EnglishLetters\C Code\Debug\List\EnglishLetters.asm Mon Jan 11 23:19:34 2021
 
-E:\Dars\Term 7\Az Riz\Tamrin ha\HW03\EnglishLetters\C Code\Debug\List\EnglishLetters.asm(1088): warning: Register r4 already defined by the .DEF directive
-E:\Dars\Term 7\Az Riz\Tamrin ha\HW03\EnglishLetters\C Code\Debug\List\EnglishLetters.asm(1089): warning: Register r5 already defined by the .DEF directive
-E:\Dars\Term 7\Az Riz\Tamrin ha\HW03\EnglishLetters\C Code\Debug\List\EnglishLetters.asm(1090): warning: Register r6 already defined by the .DEF directive
-E:\Dars\Term 7\Az Riz\Tamrin ha\HW03\EnglishLetters\C Code\Debug\List\EnglishLetters.asm(1091): warning: Register r7 already defined by the .DEF directive
-E:\Dars\Term 7\Az Riz\Tamrin ha\HW03\EnglishLetters\C Code\Debug\List\EnglishLetters.asm(1092): warning: Register r9 already defined by the .DEF directive
-E:\Dars\Term 7\Az Riz\Tamrin ha\HW03\EnglishLetters\C Code\Debug\List\EnglishLetters.asm(1093): warning: Register r8 already defined by the .DEF directive
-E:\Dars\Term 7\Az Riz\Tamrin ha\HW03\EnglishLetters\C Code\Debug\List\EnglishLetters.asm(1094): warning: Register r11 already defined by the .DEF directive
+C:\Users\RAL47\Microprocessors-Lab\Task3\2- EnglishLetters\C Code\Debug\List\EnglishLetters.asm(1088): warning: Register r4 already defined by the .DEF directive
+C:\Users\RAL47\Microprocessors-Lab\Task3\2- EnglishLetters\C Code\Debug\List\EnglishLetters.asm(1089): warning: Register r5 already defined by the .DEF directive
+C:\Users\RAL47\Microprocessors-Lab\Task3\2- EnglishLetters\C Code\Debug\List\EnglishLetters.asm(1090): warning: Register r6 already defined by the .DEF directive
+C:\Users\RAL47\Microprocessors-Lab\Task3\2- EnglishLetters\C Code\Debug\List\EnglishLetters.asm(1091): warning: Register r7 already defined by the .DEF directive
+C:\Users\RAL47\Microprocessors-Lab\Task3\2- EnglishLetters\C Code\Debug\List\EnglishLetters.asm(1092): warning: Register r9 already defined by the .DEF directive
+C:\Users\RAL47\Microprocessors-Lab\Task3\2- EnglishLetters\C Code\Debug\List\EnglishLetters.asm(1093): warning: Register r8 already defined by the .DEF directive
+C:\Users\RAL47\Microprocessors-Lab\Task3\2- EnglishLetters\C Code\Debug\List\EnglishLetters.asm(1094): warning: Register r11 already defined by the .DEF directive
                  
                  
                  ;CodeVisionAVR C Compiler V3.12 Advanced
@@ -1152,7 +1152,7 @@ E:\Dars\Term 7\Az Riz\Tamrin ha\HW03\EnglishLetters\C Code\Debug\List\EnglishLet
                  
                  _0x0:
 000035 6325
-E:\Dars\Term 7\Az Riz\Tamrin ha\HW03\EnglishLetters\C Code\Debug\List\EnglishLetters.asm(1136): warning: .cseg .db misalignment - padding zero byte
+C:\Users\RAL47\Microprocessors-Lab\Task3\2- EnglishLetters\C Code\Debug\List\EnglishLetters.asm(1136): warning: .cseg .db misalignment - padding zero byte
 000036 0000      	.DB  0x25,0x63,0x0
                  _0x2020003:
 000037 c080      	.DB  0x80,0xC0
@@ -1252,7 +1252,7 @@ E:\Dars\Term 7\Az Riz\Tamrin ha\HW03\EnglishLetters\C Code\Debug\List\EnglishLet
                  ;
                  ;Project :
                  ;Version :
-                 ;Date    : 12/31/2020
+                 ;Date    : 12/25/2020
                  ;Author  : Roozbeh Aghili
                  ;Company : Kharazmi University
                  ;Comments: Creating a LCD showing English Letters on it
