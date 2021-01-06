@@ -1,0 +1,9 @@
+VERSION:3 SOURCE_TIMESTAMP:522BA158
+NODE:I LEVEL:0 LINE:23 "F:\Program Files (x86)\codeVisionAVR\inc\mega16.h"
+NODE:I LEVEL:0 LINE:24 "F:\Program Files (x86)\codeVisionAVR\inc\delay.h"
+NODE:V LEVEL:0 LINE:26 "delay -> R4,R5"
+NODE:V LEVEL:0 LINE:27 "direction -> R6,R7"
+NODE:V LEVEL:0 LINE:28 "motorState -> R8,R9"
+NODE:V LEVEL:0 LINE:29 "states -> RAM:????"
+NODE:F LEVEL:0 LINE:31 "timer0_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:53 "main(void)"
